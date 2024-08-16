@@ -81,7 +81,7 @@ const Sprite = forwardRef<SpriteRef, SpriteProps>((props, ref) => {
       <AnimatedImage
         source={source}
         style={animatedStyle}
-        contentFit="contain"
+        resizeMode="contain"
       />
     </View>
   );

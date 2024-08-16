@@ -163,7 +163,7 @@ const AnimatedSprite = forwardRef<AnimatedSprite, AnimatedSpriteProps>(
         <AnimatedImage
           source={source}
           style={animatedStyle}
-          contentFit="cover"
+          resizeMode="cover"
         />
       </View>
     );
