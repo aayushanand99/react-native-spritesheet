@@ -2905,7 +2905,6 @@ __metadata:
     eslint: ^8.4.1
     eslint-config-prettier: ^8.5.0
     eslint-plugin-prettier: ^4.0.0
-    expo-image: ^1.5.1
     jest: ^28.1.1
     prettier: ^2.0.5
     react: 18.2.0
@@ -8163,15 +8162,6 @@ __metadata:
   peerDependencies:
     expo: "*"
   checksum: 3eff92ba5c62de5f37cfdfd86a5daf1d448e4f3e82a9ff401b4c4da1c4e5a7241da26edf32fb049763147e442d74ae8b4575b7e5a4ae0d935750c6d3f70f4355
-  languageName: node
-  linkType: hard
-
-"expo-image@npm:^1.5.1":
-  version: 1.5.1
-  resolution: "expo-image@npm:1.5.1"
-  peerDependencies:
-    expo: "*"
-  checksum: ddc75df657a61323ea9aa80070f32f92262f76c9b2ecbff9558444c7f9a56a090e7d4d743d5493eaa205d6022b89a3a15491ce6321a3032f52d9e393fbf98a69
   languageName: node
   linkType: hard
 

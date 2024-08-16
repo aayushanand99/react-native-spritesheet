@@ -1,6 +1,10 @@
 import React, { forwardRef, useImperativeHandle } from 'react';
-import { type ImageSourcePropType, StyleSheet, View } from 'react-native';
-import { Image } from 'expo-image';
+import {
+  type ImageSourcePropType,
+  StyleSheet,
+  View,
+  Image,
+} from 'react-native';
 import Animated, {
   useAnimatedStyle,
   useSharedValue,

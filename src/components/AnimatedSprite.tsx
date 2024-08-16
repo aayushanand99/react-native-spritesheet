@@ -4,8 +4,12 @@ import React, {
   useEffect,
   useImperativeHandle,
 } from 'react';
-import { View, type ImageSourcePropType, StyleSheet } from 'react-native';
-import { Image } from 'expo-image';
+import {
+  View,
+  type ImageSourcePropType,
+  StyleSheet,
+  Image,
+} from 'react-native';
 import Animated, {
   useSharedValue,
   useAnimatedStyle,
